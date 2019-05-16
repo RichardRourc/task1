@@ -1,0 +1,1 @@
+<view class="search _div" bind:__l="__l"><view class="search-icon _div"></view><input class="search__item" type="text" placeholder="搜索门店"/></view>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "附近门店",
+  "usingComponents": {
+    "search": "/components/search",
+    "shop-list": "/pages/nearby-shop/components/shop-list"
+  }
+}

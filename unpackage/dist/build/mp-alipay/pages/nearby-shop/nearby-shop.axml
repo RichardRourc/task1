@@ -1,0 +1,2 @@
+<import src="/components/search.vue.axml"/><import src="/pages/nearby-shop/components/shop-list.vue.axml"/><template name="14aea15c"><view class="_div nearby-shop {{ h[ 0 ].rcl }}"><template is="0295c836" data="{{ ...$root[ cp + 0 ], $root, _t: _t || '' }}" /><template is="f31e7164" data="{{ ...$root[ cp + 1 ], $root, _t: _t || '' }}" /></view></template>
+<template is="14aea15c" data="{{ ...$root['0'], $root }}"/>

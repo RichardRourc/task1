@@ -1,0 +1,1 @@
+<view class="shop-detail" bind:__l="__l"><shop-detail></shop-detail></view>

@@ -1,0 +1,2 @@
+<import src="/pages/shop-detail/components/shop-contact.vue.axml"/><template name="326e845a"><view class="_view shop-detail {{ h[ 0 ].rcl }}"><template is="bc21fe18" data="{{ ...$root[ cp + 0 ], $root, _t: _t || '' }}" /></view></template>
+<template is="326e845a" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,2 @@
+<template name="6f5f56c8"><view class="_view login {{ h[ 0 ].rcl }}"><view a:if="{{ h[ 1 ]._if }}" class="_div avatar"></view><image a:else class="_img avatar" alt="true" src="{{ h[ 2 ][ 'src' ] }}"></image><view class="_br"></view><label class="_span more">开启更多功能</label><view class="_br"></view></view></template>
+<template is="6f5f56c8" data="{{ ...$root['0'], $root }}"/>

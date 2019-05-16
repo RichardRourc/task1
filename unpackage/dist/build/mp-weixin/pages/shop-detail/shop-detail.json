@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "shop-detail": "/pages/shop-detail/components/shop-contact"
+  }
+}

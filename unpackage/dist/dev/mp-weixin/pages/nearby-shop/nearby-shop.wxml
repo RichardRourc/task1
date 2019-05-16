@@ -1,0 +1,1 @@
+<view class="nearby-shop _div" bind:__l="__l"><search></search><shop-list></shop-list></view>

@@ -1,0 +1,1 @@
+<view class="content" bind:__l="__l"><view data-event-opts="{{[['tap',[['a',['$event']]]]]}}" bindtap="__e" class="_div">1</view><view data-event-opts="{{[['tap',[['b',['$event']]]]]}}" bindtap="__e" class="_div">2</view><view data-event-opts="{{[['tap',[['c',['$event']]]]]}}" bindtap="__e" class="_div">3</view><scroll-view scroll-y></scroll-view></view>

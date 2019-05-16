@@ -1,0 +1,1 @@
+<template name="0295c836"><view class="_div search {{ h[ 0 ].rcl }}"><view class="_div search-icon"></view><input class="_input search__item" type="text" placeholder="搜索门店"></input></view></template>
